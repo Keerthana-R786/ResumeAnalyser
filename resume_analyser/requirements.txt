@@ -1,0 +1,11 @@
+flask
+numpy
+pandas
+scikit-learn
+nltk
+spacy
+pdfplumber
+python-docx
+transformers
+torch
+sentence-transformers
